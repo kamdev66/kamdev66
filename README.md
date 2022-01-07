@@ -5,17 +5,17 @@
 <h1>नमस्ते (Namaste)🙏🏻, I'm Kamdev Kumar <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 </em></p>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h1> 👨🏻‍💻 &nbsp;About Me </h1>
 
 - 🔭 I’m currently working on MERN Stack Small Projects.
-- 🌱 I’m currently learning: ReactJs, MongoDB, Node.Js, Expres.js --- Sharpening my Skills for the MERN stack (Personal goal)
+- 🌱 I’m currently learning: ReactJs, MongoDB, Node.Js, Expres.js 
 - 💬 Ask me anything about Frontend
-- 🤔 I’m looking for help with: "Anything related to what I am currently learning 😅
+- 🤔 I’m looking for help with: Anything related to what I am currently learning 😅
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science (hons.) at Lovely Professional University.
 - 🌱 &nbsp; i'm keen to learn about system Design and AWS Cloud Computing.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h1> 🛠 &nbsp;Tech Stack</h1>
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/C-333333?style=flat&logo=C&logoColor=blue)
@@ -37,6 +37,8 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![NPM](https://img.shields.io/badge/NPM-333333?style=flat&logo=npm&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman&logoColor=orange)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/figma-333333?style=flat&logo=figma&logoColor=orange)
@@ -44,8 +46,15 @@
 - 🖥 &nbsp;
   ![Netlify](https://img.shields.io/badge/Netlify-333333?style=flat&logo=netlify)
   ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=blue)
-
 <br/>
+
+<h1> 🛠 &nbsp;Check my Profile On :</h1>
+<p align="center">
+<a href="www.codechef.com/users/kamdev_77"><img alt="Codechef" src="https://img.shields.io/badge/CodeChef-333333?style=flat&logo=CodeChef&logoColor=orange"></a>
+<a href="https://leetcode.com/kamdev_77/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-333333?style=flat&logo=LeetCode&logoColor=#d16c06"></a>
+<a href="www.hackerrank.com/kamdevkumar666"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-333333?style=flat&logo=HackerRank&logoColor=green"></a>
+<a href="www.codewars.com/users/kamdev_77"><img alt="CodeWars" src="https://img.shields.io/badge/Codewars-333333?style=flat&logo=codewars&logoColor=violet"></a>
+</p>
 
 <a href="https://github.com/kamdev66">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamdev66&theme=buefy&show_icons=true" />
@@ -54,7 +63,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h1> 🤝🏻 &nbsp;Connect with Me </h1>
 
 <p align="center">
 <a href="www.linkedin.com/in/kamdev-kumar-128968192"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kamdev%20Kumar%20-blue?style=flat-square&logo=linkedin"></a>
