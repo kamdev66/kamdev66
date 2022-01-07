@@ -1,8 +1,10 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
- Hi there 👋 I'm [Kamdev Kumar]
+
+<h1>नमस्ते (Namaste)🙏🏻, I'm Kamdev Kumar <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+</em></p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 I’m currently working on MERN Stack Small Projects.
@@ -62,4 +64,5 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<h1> Show ❤️ By Starring My Repos!</h1>
 ⭐️ From [kamdev66](https://github.com/kamdev66)
