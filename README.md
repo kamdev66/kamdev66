@@ -50,10 +50,10 @@
 
 <h1> 🛠 &nbsp;Check my Profile On :</h1>
 <p align="center">
-<a href="www.codechef.com/users/kamdev_77"><img alt="Codechef" src="https://img.shields.io/badge/CodeChef-333333?style=flat&logo=CodeChef&logoColor=orange"></a>
+<a href="https://www.codechef.com/users/kamdev_77"><img alt="Codechef" src="https://img.shields.io/badge/CodeChef-333333?style=flat&logo=CodeChef&logoColor=orange"></a>
 <a href="https://leetcode.com/kamdev_77/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-333333?style=flat&logo=LeetCode&logoColor=#d16c06"></a>
-<a href="www.hackerrank.com/kamdevkumar666"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-333333?style=flat&logo=HackerRank&logoColor=green"></a>
-<a href="www.codewars.com/users/kamdev_77"><img alt="CodeWars" src="https://img.shields.io/badge/Codewars-333333?style=flat&logo=codewars&logoColor=violet"></a>
+<a href="https://www.hackerrank.com/kamdevkumar666"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-333333?style=flat&logo=HackerRank&logoColor=green"></a>
+<a href="https://www.codewars.com/users/kamdev_77"><img alt="CodeWars" src="https://img.shields.io/badge/Codewars-333333?style=flat&logo=codewars&logoColor=violet"></a>
 </p>
 
 <a href="https://github.com/kamdev66">
