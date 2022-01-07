@@ -66,7 +66,7 @@
 <h1> 🤝🏻 &nbsp;Connect with Me </h1>
 
 <p align="center">
-<a href="www.linkedin.com/in/kamdev-kumar-128968192"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kamdev%20Kumar%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kamdev-kumar-128968192"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kamdev%20Kumar%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/singh_sonu44/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kamdev-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:kamdevkumar666@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kamdevkumar666@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
